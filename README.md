@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 
-<h1 align="center">Hi 👋, I'm Shitanshu Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Shitanshu </h1>
 <h3 align="center">A passionate React Native developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
