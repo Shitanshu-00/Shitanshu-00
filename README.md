@@ -2,7 +2,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shitanshu-00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h1 align="center">Hi 👋, I'm Shitanshu </h1>
